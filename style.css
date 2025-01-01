@@ -20,6 +20,13 @@ header {
     text-align: center;
 }
 
+.top-header {
+    width: 100%;
+    background-image: url(img/logo.png);
+    background-size: cover;
+    background-position: center;
+}
+
 header h1 {
     font-size: 2.5rem;
     margin-bottom: 10px;
